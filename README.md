@@ -9,3 +9,5 @@ https://github.com/haotian-liu/LLaVA
 
 For implementation of Multimodal CoT model, kindly refer to -
 https://github.com/amazon-science/mm-cot
+
+For multimodal CoT, we rely on great work by [amazon-science/mm-cot] (https://github.com/amazon-science/mm-cot.git)
